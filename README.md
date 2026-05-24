@@ -250,7 +250,3 @@ huggingface_space/requirements.txt
 ```
 
 `best_model/`은 KLUE-BERT 최종 모델 파일이 들어가는 폴더입니다. 모델 파일은 용량 문제로 GitHub에는 포함하지 않고, Hugging Face Space에 직접 업로드합니다.
-
-## 결과 파일
-
-학습 결과, 모델 파일, 체크포인트, 결과 zip은 GitHub에 포함하지 않습니다. 결과 파일은 별도 제출 폴더의 `results/`에 보관합니다.
